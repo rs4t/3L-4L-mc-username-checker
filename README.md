@@ -1,5 +1,5 @@
 # MC Checker
-
+Check releases for download.
 MC Checker is a fast, terminal-based Minecraft username generator and availability checker written in Python. It targets short usernames (3–4 characters) and uses Mojang’s official API with an asynchronous architecture for significantly improved performance and reliability.
 
 ## Features
